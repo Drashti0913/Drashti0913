@@ -11,13 +11,14 @@ I'm a passionate Data Science undergraduate student at Pandit Deendayal Energy U
 📫 Reach me at: drashtibhavsar09@gmail.com
 
 Connect with me:
-<a href="https://github.com/aryxnshah"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="GitHub" width="30"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aryanshah1902"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn" width="30"></a>
+[![GitHub](https://img.shields.io/badge/GitHub-aryxnshah-black?style=flat&logo=github)](https://github.com/aryxnshah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryanshah1902-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryanshah1902)
 
 ### Languages and Tools:
 
-- Python
-- TensorFlow
-- C
-- Photoshop
-- 
+[![Python](https://img.shields.io/badge/Python-3.7+-blue?style=flat&logo=python)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat&logo=tensorflow)](#)
+[![C/C++](https://img.shields.io/badge/C/C++-blue?style=flat&logo=c%2B%2B)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)](#)
+[![Blender](https://img.shields.io/badge/Blender-blue?style=flat&logo=blender)](#)
+[![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=flat&logo=adobe-photoshop)](#)
