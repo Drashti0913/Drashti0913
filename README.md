@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Drashti Bhavsar! 👋
 
-<!--
-**Drashti0913/Drashti0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Data Science undergraduate student at Pandit Deendayal Energy University ✌🏻 
 
-Here are some ideas to get you started:
+🔭 I’m currently focusing on expanding my skills in Machine Learning and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking to collaborate on ML projects.
+
+💬 Ask me about NLP, OpenCV, Data Science, Machine Learning.
+
+📫 Reach me at: drashtibhavsar09@gmail.com
+
+Connect with me:
+- [GitHub](https://github.com/aryxnshah](https://github.com/Drashti0913)
+- [LinkedIn](https://linkedin.com/in/aryanshah1902](https://www.linkedin.com/in/drashtibhavsar9/)
+
+### Languages and Tools:
+
+- Python
+- TensorFlow
+- C
+- Photoshop
+- 
