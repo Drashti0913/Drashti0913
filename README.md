@@ -1,4 +1,4 @@
-# Hi there, I'm Drashti Bhavsar! 👋
+# Hi, I'm Drashti Bhavsar! 👋
 
 I'm a passionate Data Science undergraduate student at Pandit Deendayal Energy University ✌🏻 
 
@@ -15,7 +15,7 @@ I'm a passionate Data Science undergraduate student at Pandit Deendayal Energy U
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/drashtibhavsar9/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/_drashti09/)
 [![Gmail](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:drashtibhavsar09@gmail.com)
-![Github](https://github.com/Drashti0913/Drashti0913/assets/89067080/14dacd24-1653-4e8d-8df5-71fabba6c12b)
+
 ## Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-Profile-informational?style=flat&logo=python&logoColor=white&color=3776AB)](#)
 [![C++](https://img.shields.io/badge/C++-Profile-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)](#)
