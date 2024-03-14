@@ -16,10 +16,10 @@ Connect with me:
 
 
 ### Languages and Tools:
-
-[![Python Logo](https://image.flaticon.com/icons/svg/1822/1822899.svg)](#)
-[![TensorFlow Logo](https://image.flaticon.com/icons/svg/918/918830.svg)](#)
-[![C/C++ Logo](https://image.flaticon.com/icons/svg/226/226777.svg)](#)
-[![Flutter Logo](https://image.flaticon.com/icons/svg/919/919851.svg)](#)
-[![Blender Logo](https://image.flaticon.com/icons/svg/732/732121.svg)](#)
+<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" alt="Python" width="30"/>&nbsp;&nbsp;
+<img src="https://image.flaticon.com/icons/svg/918/918830.svg" alt="TensorFlow" width="30"/>&nbsp;&nbsp;
+<img src="https://image.flaticon.com/icons/svg/226/226777.svg" alt="C/C++" width="30"/>&nbsp;&nbsp;
+<img src="https://image.flaticon.com/icons/svg/919/919851.svg" alt="Flutter" width="30"/>&nbsp;&nbsp;
+<img src="https://image.flaticon.com/icons/svg/732/732121.svg" alt="Blender" width="30"/>&nbsp;&nbsp;
+<img src="https://image.flaticon.com/icons/svg/919/919831.svg" alt="Photoshop" width="30"/>&nbsp;&nbsp;#)
 [![Photoshop Logo](https://image.flaticon.com/icons/svg/919/919831.svg)](#)
