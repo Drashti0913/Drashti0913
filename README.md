@@ -11,14 +11,15 @@ I'm a passionate Data Science undergraduate student at Pandit Deendayal Energy U
 📫 Reach me at: drashtibhavsar09@gmail.com
 
 Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-aryxnshah-black?style=flat&logo=github)](https://github.com/aryxnshah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryanshah1902-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryanshah1902)
+[![GitHub Logo](https://image.flaticon.com/icons/svg/25/25231.svg)](https://github.com/aryxnshah)
+[![LinkedIn Logo](https://image.flaticon.com/icons/svg/174/174857.svg)](https://www.linkedin.com/in/aryanshah1902)
+
 
 ### Languages and Tools:
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue?style=flat&logo=python)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat&logo=tensorflow)](#)
-[![C/C++](https://img.shields.io/badge/C/C++-blue?style=flat&logo=c%2B%2B)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)](#)
-[![Blender](https://img.shields.io/badge/Blender-blue?style=flat&logo=blender)](#)
-[![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=flat&logo=adobe-photoshop)](#)
+[![Python Logo](https://image.flaticon.com/icons/svg/1822/1822899.svg)](#)
+[![TensorFlow Logo](https://image.flaticon.com/icons/svg/918/918830.svg)](#)
+[![C/C++ Logo](https://image.flaticon.com/icons/svg/226/226777.svg)](#)
+[![Flutter Logo](https://image.flaticon.com/icons/svg/919/919851.svg)](#)
+[![Blender Logo](https://image.flaticon.com/icons/svg/732/732121.svg)](#)
+[![Photoshop Logo](https://image.flaticon.com/icons/svg/919/919831.svg)](#)
