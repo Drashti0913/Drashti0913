@@ -1,6 +1,6 @@
 # Hi, I'm Drashti Bhavsar! 👋
 
-I'm a passionate Data Science undergraduate student at Pandit Deendayal Energy University ✌🏻 
+*I'm a passionate Data Science undergraduate student at Pandit Deendayal Energy University* ✌🏻 
 
 🔭 I’m currently focusing on expanding my skills in Machine Learning and Data Science.
 
