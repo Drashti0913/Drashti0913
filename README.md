@@ -10,6 +10,9 @@
 
 📫 Reach me at: drashtibhavsar09@gmail.com
 
+👯 I’m looking to collaborate on projects related to data visualization, machine learning, and security analysis.
+
+
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BhavsarDrashti2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/drashtibhavsar9/)
