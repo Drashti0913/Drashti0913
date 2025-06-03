@@ -3,12 +3,11 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 
-- 🔭 Currently working on **Vector DB apps using LangChain**
-- 🌱 Diving deep into **Advanced NLP** and **Prompt Engineering**
-- 🤝 Open to collaborations in **AI/ML research** and **real-world projects**
-- 📝 I write tech blogs & publish papers — simplifying complex topics
-- 💬 Ask me about anything related to **AI, ML, and Data Engineering**
-- 📫 Reach me here: [LinkedIn](https://linkedin.com/in/drashtibhavsar9)
+- 🔭 I’m currently working on **Vector DB apps using LangChain**
+- 🌱 I’m learning **Deep NLP and Prompt Engineering**
+- 👯 I’m looking to collaborate on **AI/ML research and products**
+- 📝 I regularly write technical blogs and publish papers
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
 
 ---
 
