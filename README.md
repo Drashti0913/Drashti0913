@@ -1,24 +1,4 @@
-# Hi, I'm Drashti Bhavsar! 👋
 
-*I'm a passionate Computer Science master's student at Northeastern University* 🎓 
-
-🔭 I’m focusing on expanding my Machine Learning and Data Science skills.
-
-🤝 I’m looking to collaborate on ML projects.
-
-💬 Ask me about NLP, OpenCV, Data Science, and Machine Learning.
-
-📫 Reach me at: drashtibhavsar09@gmail.com
-
-👨‍💻 All of my projects are available at https://github.com/Drashti0913/Drashti0913
-
-👯 I’m looking to collaborate on projects related to data visualization, machine learning, and security analysis.
-
-
-## 🌐 Socials:
-
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BhavsarDrashti2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/drashtibhavsar9/)
 
 
 ## 💻 Tech Stack:
@@ -45,18 +25,7 @@
 ![SCIPY](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![GRADLE](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
----
 
-## 📊 GitHub Stats:
-
-### Drashti Bhavsar's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drashti0913&show_icons=true&theme=dark&hide_title=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Drashti0913&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti0913&layout=compact&theme=dark)
-
----
 
 
 <h1 align="center">Hi 👋, I'm Drashti</h1>
@@ -82,7 +51,9 @@
 
 ### 📊 GitHub Activity
 
-![Drashti's GitHub stats](https://github-readme-stats.vercel.app/api?username=drashtibhavsar9&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drashtibhavsar9&layout=compact&theme=radical)
 
+
+![Drashti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drashti0913&show_icons=true&theme=dark&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti0913&layout=compact&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Drashti0913&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
