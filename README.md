@@ -1,12 +1,12 @@
 # Hi, I'm Drashti Bhavsar! 👋
 
-*I'm a passionate Data Science undergraduate student at Pandit Deendayal Energy University* ✌🏻 
+*I'm a passionate Computer Science master's student at Northeastern University* 🎓 
 
-🔭 I’m currently focusing on expanding my skills in Machine Learning and Data Science.
+🔭 I’m focusing on expanding my Machine Learning and Data Science skills.
 
 🤝 I’m looking to collaborate on ML projects.
 
-💬 Ask me about NLP, OpenCV, Data Science, Machine Learning.
+💬 Ask me about NLP, OpenCV, Data Science, and Machine Learning.
 
 📫 Reach me at: drashtibhavsar09@gmail.com
 
@@ -21,7 +21,7 @@
 
 ## Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-Profile-informational?style=flat&logo=python&logoColor=white&color=3776AB)](#)
-[![JAVA]([https://camo.githubusercontent.com/5f12a22fd87f2039f3082e3f3f9684e9927cc4847860bca5f4bbfd75929f4943/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966](#)
+[![JAVA](https://camo.githubusercontent.com/5f12a22fd87f2039f3082e3f3f9684e9927cc4847860bca5f4bbfd75929f4943/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966(#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Profile-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Profile-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)](#)
 [![Git](https://img.shields.io/badge/Git-Profile-informational?style=flat&logo=git&logoColor=white&color=F05032)](#)
