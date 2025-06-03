@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drashti</h1>
-<h3 align="center">Building the future with data, design, and a dash of caffeine ☕🤖</h3>
+<h3 align="center">A Passionate Data Scientist <h3>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 
