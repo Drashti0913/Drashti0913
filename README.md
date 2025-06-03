@@ -1,25 +1,13 @@
-<table>
-  <tr>
-    <td>
-      <h1>Hi 👋, I'm Drashti</h1>
-      <h3>Building the future with data, design, and a dash of caffeine ☕🤖</h3>
-      <ul>
-        <li>🔭 Currently working on <strong>Vector DB apps using LangChain</strong></li>
-        <li>🧠 Diving deep into <strong>Advanced NLP</strong> and <strong>Prompt Engineering</strong></li>
-        <li>🤝 Open to collaborations in <strong>AI/ML research</strong> and <strong>real-world projects</strong></li>
-        <li>📝 I write tech blogs & publish papers — simplifying complex topics</li>
-        <li>💬 Ask me about anything related to <strong>AI, ML, and Data Engineering</strong></li>
-        <li>📫 Reach me here: <a href="https://www.linkedin.com/in/your-link">LinkedIn</a></li>
-      </ul>
-    </td>
-    <td>
-      <img src="your-gif-link-here.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Drashti</h1>
+<h3 align="center">A passionate Data Scientist and Developer from India 🇮🇳</h3>
 
-<hr>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 
+- 🔭 I’m currently working on **Vector DB apps using LangChain**
+- 🌱 I’m learning **Deep NLP and Prompt Engineering**
+- 👯 I’m looking to collaborate on **AI/ML research and products**
+- 📝 I regularly write technical blogs and publish papers
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
 
 ## 💻 Tech Stack
 
