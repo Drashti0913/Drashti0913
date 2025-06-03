@@ -15,9 +15,7 @@
 👯 I’m looking to collaborate on projects related to data visualization, machine learning, and security analysis.
 
 
-## 📘 README
 
----
 
 ## 💻 Tech Stack:
 
@@ -48,11 +46,11 @@
 ## 📊 GitHub Stats:
 
 ### Utsav Mehta's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utsavmehta9&show_icons=true&theme=dark&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drashti0913&show_icons=true&theme=dark&hide_title=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=utsavmehta9&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Drashti0913&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavmehta9&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti0913&layout=compact&theme=dark)
 
 ---
 
@@ -61,14 +59,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BhavsarDrashti2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/drashtibhavsar9/)
 
----
 
-## 🧰 Languages and Tools:
-
-[![Python](https://img.shields.io/badge/Python-Profile-informational?style=flat&logo=python&logoColor=white&color=3776AB)](#)
-[![JAVA](https://img.shields.io/badge/JAVA-Profile-informational?style=flat&logo=java&logoColor=white&color=ED8B00)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Profile-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Profile-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)](#)
-[![Git](https://img.shields.io/badge/Git-Profile-informational?style=flat&logo=git&logoColor=white&color=F05032)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](#)
 
