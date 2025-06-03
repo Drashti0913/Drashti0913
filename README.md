@@ -9,6 +9,8 @@
 - 📝 I regularly write technical blogs and publish papers
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
 - 📝 I regularly write technical blogs and publish papers
+- 📝 I regularly write technical blogs and publish papers
+  
 
 ---
 
