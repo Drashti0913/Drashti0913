@@ -9,7 +9,7 @@
 - 📝 I regularly write technical blogs and publish papers
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
 
----
+
 
 ## 💻 Tech Stack
 
