@@ -15,6 +15,10 @@
 👯 I’m looking to collaborate on projects related to data visualization, machine learning, and security analysis.
 
 
+## 🌐 Socials:
+
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BhavsarDrashti2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/drashtibhavsar9/)
 
 
 ## 💻 Tech Stack:
@@ -45,7 +49,7 @@
 
 ## 📊 GitHub Stats:
 
-### Utsav Mehta's GitHub Stats
+### Drashti Bhavsar's GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drashti0913&show_icons=true&theme=dark&hide_title=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Drashti0913&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
@@ -54,10 +58,6 @@
 
 ---
 
-## 🌐 Socials:
-
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BhavsarDrashti2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/drashtibhavsar9/)
 
 
 
