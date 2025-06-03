@@ -10,11 +10,11 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 
-🔭 I’m currently working on **Vector DB apps using LangChain**
-🌱 I’m learning **Deep NLP and Prompt Engineering**
-👯 I’m looking to collaborate on **AI/ML research and products**
-📝 I regularly write technical blogs and publish papers
-📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
+ 🔭 I’m currently working on **Vector DB apps using LangChain**
+ 🌱 I’m learning **Deep NLP and Prompt Engineering**
+ 👯 I’m looking to collaborate on **AI/ML research and products**
+ 📝 I regularly write technical blogs and publish papers
+ 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
 
 ---
 
