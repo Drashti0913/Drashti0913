@@ -1,6 +1,25 @@
 
 
 
+
+
+
+
+<h1 align="center">Hi 👋, I'm Drashti</h1>
+<h3 align="center">A passionate Data Scientist and Developer from India 🇮🇳</h3>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
+
+- 🔭 I’m currently working on **Vector DB apps using LangChain**
+- 🌱 I’m learning **Deep NLP and Prompt Engineering**
+- 👯 I’m looking to collaborate on **AI/ML research and products**
+- 📝 I regularly write technical blogs and publish papers
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
+
+---
+
+### 🛠 Tech Stack
+
 ## 💻 Tech Stack:
 
 ![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -24,27 +43,6 @@
 ![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SCIPY](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![GRADLE](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-
-
-
-<h1 align="center">Hi 👋, I'm Drashti</h1>
-<h3 align="center">A passionate Data Scientist and Developer from India 🇮🇳</h3>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
-
-- 🔭 I’m currently working on **Vector DB apps using LangChain**
-- 🌱 I’m learning **Deep NLP and Prompt Engineering**
-- 👯 I’m looking to collaborate on **AI/ML research and products**
-- 📝 I regularly write technical blogs and publish papers
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
-
----
-
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=data:image/png;base64,iVBOR...)
 
 ---
