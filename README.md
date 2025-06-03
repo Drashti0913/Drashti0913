@@ -8,6 +8,9 @@
 - 👯 I’m looking to collaborate on **AI/ML research and products**
 - 📝 I regularly write technical blogs and publish papers
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
+- 📝 I regularly write technical blogs and publish papers
+
+---
 
 
 
