@@ -1,17 +1,25 @@
-<h1 align="center">Hi 👋, I'm Drashti</h1>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
+<table>
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm Drashti</h1>
+      <h3>Building the future with data, design, and a dash of caffeine ☕🤖</h3>
+      <ul>
+        <li>🔭 Currently working on <strong>Vector DB apps using LangChain</strong></li>
+        <li>🧠 Diving deep into <strong>Advanced NLP</strong> and <strong>Prompt Engineering</strong></li>
+        <li>🤝 Open to collaborations in <strong>AI/ML research</strong> and <strong>real-world projects</strong></li>
+        <li>📝 I write tech blogs & publish papers — simplifying complex topics</li>
+        <li>💬 Ask me about anything related to <strong>AI, ML, and Data Engineering</strong></li>
+        <li>📫 Reach me here: <a href="https://www.linkedin.com/in/your-link">LinkedIn</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="your-gif-link-here.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">Building the future with data, design, and a dash of caffeine ☕🤖</h3>
+<hr>
 
-
-- 🔭 Currently working on **Vector DB apps using LangChain**
-- 🌱 Diving deep into **Advanced NLP** and **Prompt Engineering**
-- 🤝 Open to collaborations in **AI/ML research** and **real-world projects**
-- 📝 I write tech blogs & publish papers — simplifying complex topics
-- 💬 Ask me about anything related to **AI, ML, and Data Engineering**
-- 📫 Reach me here: [LinkedIn](https://linkedin.com/in/drashtibhavsar9)
-
----
 
 ## 💻 Tech Stack
 
