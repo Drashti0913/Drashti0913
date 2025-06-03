@@ -21,7 +21,7 @@
 
 ## Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-Profile-informational?style=flat&logo=python&logoColor=white&color=3776AB)](#)
-[![JAVA]([https://img.shields.io/badge/C++-Profile-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftheakshaymore%2FJava-Ninja&psig=AOvVaw108fBsvrQJ_XemVh5ya2ak&ust=1749018634784000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjJ-KbQ1I0DFQAAAAAdAAAAABAE)](#)
+[![JAVA]([https://camo.githubusercontent.com/5f12a22fd87f2039f3082e3f3f9684e9927cc4847860bca5f4bbfd75929f4943/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Profile-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Profile-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)](#)
 [![Git](https://img.shields.io/badge/Git-Profile-informational?style=flat&logo=git&logoColor=white&color=F05032)](#)
