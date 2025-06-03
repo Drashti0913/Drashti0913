@@ -49,8 +49,9 @@
 ### 📊 GitHub Activity
 
 
-
-![Drashti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drashti0913&show_icons=true&theme=dark&hide_title=true)
+## Drashti's Github Stats
+![Drashti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drashti0913&show_icons=true&theme=dark&hide_title=true) (#)
+## Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti0913&layout=compact&theme=dark)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Drashti0913&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
