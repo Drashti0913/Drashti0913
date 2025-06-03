@@ -18,7 +18,6 @@
 
 ---
 
-### 🛠 Tech Stack
 
 ## 💻 Tech Stack:
 
@@ -43,7 +42,7 @@
 ![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SCIPY](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![GRADLE](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=data:image/png;base64,iVBOR...)
+![LangChain](https://img.shields.io/badge/LangChain-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
 
