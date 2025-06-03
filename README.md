@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Drashti</h1>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
+
 <h3 align="center">Building the future with data, design, and a dash of caffeine ☕🤖</h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 
 - 🔭 Currently working on **Vector DB apps using LangChain**
 - 🌱 Diving deep into **Advanced NLP** and **Prompt Engineering**
@@ -67,6 +68,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti0913&layout=compact&theme=dark" width="40%"/>
 </p>
 
----
-
-✨ _Let me know if you want to add a quote, pinned projects, contribution graph, or custom banner!_  
