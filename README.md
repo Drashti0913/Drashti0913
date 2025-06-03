@@ -59,5 +59,30 @@
 ---
 
 
+<h1 align="center">Hi 👋, I'm Drashti</h1>
+<h3 align="center">A passionate Data Scientist and Developer from India 🇮🇳</h3>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
+
+- 🔭 I’m currently working on **Vector DB apps using LangChain**
+- 🌱 I’m learning **Deep NLP and Prompt Engineering**
+- 👯 I’m looking to collaborate on **AI/ML research and products**
+- 📝 I regularly write technical blogs and publish papers
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/drashtibhavsar9)**
+
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=data:image/png;base64,iVBOR...)
+
+---
+
+### 📊 GitHub Activity
+
+![Drashti's GitHub stats](https://github-readme-stats.vercel.app/api?username=drashtibhavsar9&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drashtibhavsar9&layout=compact&theme=radical)
 
 
